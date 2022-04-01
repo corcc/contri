@@ -1,0 +1,17 @@
+export const Seoul = ['Seúl', 'Сеул', 'Seoul', '首爾', '首尔', '서울'];
+export const Busan = ['Пусан', 'Busan', '釜山', '부산'];
+export const Daegu = ['Тегу', 'Daegu', '大邱', '대구'];
+export const Incheon = ['Инчхон', 'Incheon', '仁川', '인천'];
+export const Gwangju = ['Кванджу', 'Gwangju', '光州', '광주'];
+export const Daejeon = ['Теджон', 'Daejeon', '大田', '대전'];
+export const Ulsan = ['Ульсан', 'Ulsan', '蔚山', '울산'];
+export const Sejong = ['Седжон', 'Sejong', '世宗', '세종'];
+export const GyeonggiDo = ['Кёнги', 'Gyeonggi', '京畿', '경기'];
+export const GangwonDo = ['Канвон', 'Gangwon', '江原', '강원'];
+export const ChungcheongbukDo = ['Чхун&пук', 'Chung&buk', 'Chung&nor', '忠&北', '충&북'];
+export const ChungcheongnamDo = ['Чхун&нам', 'Chung&nam', 'Chung&sur', '忠&南', '충&남'];
+export const JeollabukDo = ['Чо&пук', 'Jeo&buk', 'Jeo&nor', '全&北', '전&북'];
+export const JeollanamDo = ['Чо&нам', 'Jeo&nam', 'Jeo&sur', '全&南', '전&남'];
+export const GyeongsangbukDo = ['Кён&пук', 'Gyeong&buk', 'Gyeong&nor', '慶&北', '경&북'];
+export const GyeongsangnamDo = ['Кён&нам', 'Gyeong&nam', 'Gyeong&sur', '慶&南', '경&남'];
+export const Jeju = ['Йейу', 'Jeju', '济州', '濟州', '제주'];
