@@ -4,6 +4,8 @@
 
 `npm i github:corcc/contri --save-dev`
 
+`pnpm add -D github:corcc/contri`
+
 ## Usage
 
 `import { Cases, Vaccinations } from '@corcc/contri';`
